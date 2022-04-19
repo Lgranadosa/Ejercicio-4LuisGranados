@@ -1,0 +1,51 @@
+
+nav    {
+    background-color: #D6AFDC;
+    
+}
+
+ul{
+    color: white;
+    height: 80px;
+
+}
+
+.inicio  {
+    border: 1px solid red;
+    display: inline;
+    padding: 20px;
+    margin: inherit;
+    margin: 20px;
+
+}
+
+.inicio:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.quienes    {
+    border: 1px solid red;
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.quienes:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.contacto   {
+
+    border: 1px solid red;
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+}
+
+.contacto:hover{
+    background-color: blue;
+    cursor: pointer;
+}
