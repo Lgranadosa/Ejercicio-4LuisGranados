@@ -4,18 +4,21 @@ nav    {
     
 }
 
+
 ul{
     color: white;
-    height: 80px;
+    height: 100px;
 
 }
 
 .inicio  {
-    border: 1px solid red;
+    
     display: inline;
-    padding: 20px;
-    margin: inherit;
+    float: left;
+    font-weight: bold;
     margin: 20px;
+    padding: 20px;
+    text-align: center;
 
 }
 
@@ -25,10 +28,13 @@ ul{
 }
 
 .quienes    {
-    border: 1px solid red;
+   
     display: inline;
     padding: 20px;
     margin: 20px;
+    float: left;
+    font-weight: bold;
+    text-align: center;
 
 }
 
@@ -39,10 +45,12 @@ ul{
 
 .contacto   {
 
-    border: 1px solid red;
+    font-weight: bold;
     display: inline;
     padding: 20px;
     margin: 20px;
+    float: left;
+    text-align: center;
 }
 
 .contacto:hover{
